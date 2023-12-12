@@ -3,7 +3,7 @@
     "vmnet": "vmnetX", 
     "homedir": "/homedir", 
     "mountdir": "/home/vagrant/mnt", 
-    "vmname": "vmname", 
+    "vmname": "terraform_lab", 
     "memsize": "1024", 
     "cpu": "1" 
 }
